@@ -1,0 +1,9 @@
+2020-05-22 10:39:13,759:Line    15:            <module>():Running Prokeep test program
+2020-05-22 10:39:13,759:Line    17:            <module>():Setting Chrome Driver options
+2020-05-22 10:39:15,188:Line    82:            __init__():Running class Login
+2020-05-22 10:39:17,982:Line    87:               login():Running login function
+2020-05-22 10:39:17,987:Line    90:               login():Connected tohttps://prokeepelectrical.int.prokeep.com/login
+2020-05-22 10:39:20,486:Line   110:        checkstorage():Running check storage function
+2020-05-22 10:39:20,867:Line   135:       checksettings():Running check settings function
+2020-05-22 10:39:20,937:Line   148:              logout():Running Logout function
+2020-05-22 10:39:22,091:Line   161:       checkstorage2():Running check storage2 function
